@@ -7,3 +7,10 @@ Visit us at (https://redmoonsecurity.com)
 View a demo on YouTube here: (https://youtu.be/MrCsGq9WU4A)
 
 ![DomainBrute Screenshot](https://user-images.githubusercontent.com/62467907/79632647-f8d87400-8160-11ea-95d5-85893bad49d8.png)
+
+## *Usage*
+
+./DomainBrute.py
+
+Make sure the subdomain_list.txt file is in the same directory as DNStalker.sh
+Alternatively enter the path to your own custom list at the prompt
