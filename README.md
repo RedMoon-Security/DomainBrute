@@ -12,4 +12,4 @@ View a demo on YouTube here: (https://youtu.be/MrCsGq9WU4A)
 
 ./DomainBrute.py
 
-Make sure the subdomain_list.txt file is in the same directory as DNStalker.sh<br/>Alternatively enter the path to your own custom list at the prompt
+Make sure the subdomain_list.txt file is in the same directory as DNStalker.sh<br/>Alternatively, enter the path to your own custom list at the prompt
