@@ -12,4 +12,4 @@ View a demo on YouTube here: (https://youtu.be/MrCsGq9WU4A)
 
 ./DomainBrute.py
 
-Make sure the subdomain_list.txt file is in the same directory as DomainBrute.py<br/>Alternatively, enter the path to your own custom list at the prompt<br/><br/>Enter the domain you want to discover subomains for and press enter.
+Make sure the subdomain_list.txt file is in the same directory as DomainBrute.py<br/>Alternatively, enter the path to your own custom list at the prompt<br/><br/>Enter the domain you want to discover subdomains for and press enter.
